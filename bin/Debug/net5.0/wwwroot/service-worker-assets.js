@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-nJpp+rrnlH2UnWJleuV5vCTVPdnddRa6R2qdAoOSgYU=",
+      "hash": "sha256-ObtSut92SlC7\/VpyAvTMBJF3JQLKq2EMwwLnh1Wq\/gk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -785,11 +785,11 @@
       "url": "_framework\/dotnet.5.0.6.js"
     },
     {
-      "hash": "sha256-qYVTeFQ9rA55Vix7nPLavH0xyh241Ej9LQXsCKEoizU=",
+      "hash": "sha256-jz0+LfkdPyNFNuImmrIUxfGCS1XTDi61b+LCYJDAJ4U=",
       "url": "_framework\/brandflex.dll"
     },
     {
-      "hash": "sha256-KpMq7Rlp3kHUoX+GMn6qGjaIahYwN2948hWOsvKklRY=",
+      "hash": "sha256-RaSwdkFaRpythl9udTQ\/\/absPzGpQdqP81dV9EpnxTA=",
       "url": "_framework\/brandflex.pdb"
     },
     {
@@ -1577,63 +1577,123 @@
       "url": "_framework\/dotnet.5.0.6.js.gz"
     },
     {
-      "hash": "sha256-cj6YkO5H80sMTPANmlcY+fTshg0yFWZradLEaOoge7s=",
-      "url": "css\/app.css"
+      "hash": "sha256-oxQdUWwbw4SjDNM99TJY7ODECUUge3GodBnkjKvGJto=",
+      "url": ".DS_Store"
     },
     {
-      "hash": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
-      "url": "css\/bootstrap\/bootstrap.min.css"
+      "hash": "sha256-FdbcmTyyVv\/n8KaQSUudqQ0LRAwt0aR\/2vu9AM9XqGo=",
+      "url": "css\/.DS_Store"
     },
     {
-      "hash": "sha256-xMZ0SaSBYZSHVjFdZTAT\/IjRExRIxSriWcJLcA9nkj0=",
-      "url": "css\/bootstrap\/bootstrap.min.css.map"
-    },
-    {
-      "hash": "sha256-jA4J4h\/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
-      "url": "css\/open-iconic\/FONT-LICENSE"
-    },
-    {
-      "hash": "sha256-BJ\/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=",
-      "url": "css\/open-iconic\/font\/css\/open-iconic-bootstrap.min.css"
-    },
-    {
-      "hash": "sha256-OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh\/chSkSvQpc=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.eot"
-    },
-    {
-      "hash": "sha256-sDUtuZAEzWZyv\/U1xl\/9D3ehyU69JE+FvAcu5HQ+\/a0=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.otf"
-    },
-    {
-      "hash": "sha256-+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.svg"
-    },
-    {
-      "hash": "sha256-p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.ttf"
-    },
-    {
-      "hash": "sha256-cZPqVlRJfSNW0KaQ4+UPOXZ\/v\/QzXlejRDwUNdZIofI=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.woff"
-    },
-    {
-      "hash": "sha256-aF5g\/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU\/ss=",
-      "url": "css\/open-iconic\/ICON-LICENSE"
-    },
-    {
-      "hash": "sha256-p\/oxU91iBE+uaDr3kYOyZPuulf4YcPAMNIz6PRA\/tb0=",
-      "url": "css\/open-iconic\/README.md"
+      "hash": "sha256-mWVHXVjuXVZzuIZ7e\/8fAHyZNt6cC+rr3Q5meZ2I95o=",
+      "url": "css\/brandflex.css"
     },
     {
       "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "url": "favicon.ico"
     },
     {
+      "hash": "sha256-pCUBU4y5KzmnIzoZEuuXtR5SzdbzmrZPx5lICAJhqCQ=",
+      "url": "fonts\/.DS_Store"
+    },
+    {
+      "hash": "sha256-Rm5sbBNmqXx3WRJeW+7qnub\/yfYJShwiBFdncdGeNDk=",
+      "url": "fonts\/MerchantLedger\/.DS_Store"
+    },
+    {
+      "hash": "sha256-ao\/XBH2mVDJGWCOZD6tybTf8v\/xGiA++CqcpvSJfpFQ=",
+      "url": "fonts\/MerchantLedger\/MerchantLedgerRegular.eot"
+    },
+    {
+      "hash": "sha256-WYue6Ecu13eugRbdHna7+vUUH7JCvYrK1WdEJZh0j4M=",
+      "url": "fonts\/MerchantLedger\/MerchantLedgerRegular.svg"
+    },
+    {
+      "hash": "sha256-BuO3Xlb1U7Fh9jjTCkmdzQGQaFscTCFkbcL4fkP4cxg=",
+      "url": "fonts\/MerchantLedger\/MerchantLedgerRegular.ttf"
+    },
+    {
+      "hash": "sha256-S79VGBKtYiHGYBGipbuqkkg8yu3hAbgimXuJ0Lk3JVE=",
+      "url": "fonts\/MerchantLedger\/MerchantLedgerRegular.woff"
+    },
+    {
+      "hash": "sha256-wxzAyCJTHKCFbT7x6Fz96r\/yKOpOTl+iGdqOA\/PwJsg=",
+      "url": "fonts\/MerchantLedger\/MerchantLedgerRegular.woff2"
+    },
+    {
+      "hash": "sha256-U6ZRspU2OqdbLN\/MpWVl+0rmD1v2I36q8QYguWQUFBY=",
+      "url": "fonts\/MerchantLedgerThin\/.DS_Store"
+    },
+    {
+      "hash": "sha256-tCodi\/4tKz\/9Wl\/SKvmssQGHXGpsnpcYuD7fcuek+qY=",
+      "url": "fonts\/MerchantLedgerThin\/MerchantLedgerThin.eot"
+    },
+    {
+      "hash": "sha256-G2R8neaCx3kafEyW6GE6bbZSVQHQZ+Y8Jd5m\/Iq8ALE=",
+      "url": "fonts\/MerchantLedgerThin\/MerchantLedgerThin.svg"
+    },
+    {
+      "hash": "sha256-w1B3WfaVDVGt\/N\/FL67C5kBSeIGBiEPamjmT1QhUCXY=",
+      "url": "fonts\/MerchantLedgerThin\/MerchantLedgerThin.ttf"
+    },
+    {
+      "hash": "sha256-VBztpH656Aan6iLvvRcu7035Ebdo+3PMNgr9Q+3S87Q=",
+      "url": "fonts\/MerchantLedgerThin\/MerchantLedgerThin.woff"
+    },
+    {
+      "hash": "sha256-1\/mLZ6qGNmy\/YIfiWMnHijLYYl8og2ZAIyxB7oAas\/k=",
+      "url": "fonts\/MerchantLedgerThin\/MerchantLedgerThin.woff2"
+    },
+    {
       "hash": "sha256-IpHFcQvs03lh6W54zoeJRG1jW+VnGmwymzxLoXtKX7Y=",
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-VwMLuEMb4+rBLV5Hv8bGeq9KnixAp0WOIGPHt9vxcQA=",
+      "hash": "sha256-92vUYWc6PqpEkP8+eurTi1WAIkYSnw\/qM2mUilHFKNs=",
+      "url": "images\/.DS_Store"
+    },
+    {
+      "hash": "sha256-4C9a7oznT5YuubqDmpfEx8SUSn4OGrLjHcpp+b0QlGY=",
+      "url": "images\/adobe.png"
+    },
+    {
+      "hash": "sha256-YP1lILLz17tsEyMiV9R5bU6nnB2WIDuvtdzsX47Kw8g=",
+      "url": "images\/brandflex-bubble.png"
+    },
+    {
+      "hash": "sha256-WEgf3QqXGTD7tSCShEJiTxBLU0PaADbWsF8\/LBsNsek=",
+      "url": "images\/brandflex-bubble.webp"
+    },
+    {
+      "hash": "sha256-2KvV8pztDQGWKm\/U5G88AM6TDmTAKIfrqbOpokuik6k=",
+      "url": "images\/brandflex.png"
+    },
+    {
+      "hash": "sha256-KU9+haCo09YM5RKHsKnaes5k5tzkXdeR\/JuqckG54pA=",
+      "url": "images\/brandflex.webp"
+    },
+    {
+      "hash": "sha256-Va36PCfq86JDAmn++rh6i6+mDeU\/gHsQFSseUy1JoDU=",
+      "url": "images\/dotslash.png"
+    },
+    {
+      "hash": "sha256-kQmlXWQB6Z8YgU9WvqYWRv6zsw7Y55u0hk\/YZ0ZwvYI=",
+      "url": "images\/entrepreneur.png"
+    },
+    {
+      "hash": "sha256-2S4DDY9NfjvFZfoQNMU\/I+MNYb6LpeOv1mQHu5ascHg=",
+      "url": "images\/klopjag.png"
+    },
+    {
+      "hash": "sha256-cykNu8BJq6URUHLDsGk3ueCxSB2FejJe9nU7mGxLpEQ=",
+      "url": "images\/springboard.png"
+    },
+    {
+      "hash": "sha256-cOQsQkd7T3LSXFphVy5Jc8ChEJZryApxnovD3dciUhY=",
+      "url": "images\/thrive.png"
+    },
+    {
+      "hash": "sha256-ObxDtQv5w1CxVGfBba9JnmkHYKxNhCBJbpdm6Wzo8DY=",
       "url": "index.html"
     },
     {
@@ -1645,13 +1705,329 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-4HiyEz6ypVsDGG9RfcBL0\/QXKmOYeYESRvfM7iDO9uk=",
-      "url": "brandflex.styles.css"
+      "hash": "sha256-ZJpZB4XGLp0+eT3tjpxw5ZoTGOwP0GzwKEmQtjW25vU=",
+      "url": "scss\/.DS_Store"
     },
     {
-      "hash": "sha256-ICaMzPK8rCNPKUNvrsnLIr4xLRSQiB6bk\/dL7bkLOCE=",
-      "url": "brandflex.bundle.scp.css"
+      "hash": "sha256-bjvl4dVgPhhrGIcPfRcfP4g9AQyluEmeVdJdlwhtid4=",
+      "url": "scss\/bootstrap\/bootstrap.scss"
+    },
+    {
+      "hash": "sha256-CZMhRPZU+9epgGbzHr2EBTByOfQLsKYpLaZtto4k1sY=",
+      "url": "scss\/bootstrap\/forms\/_floating-labels.scss"
+    },
+    {
+      "hash": "sha256-mrsXMZaMFee11kK5D6IDBF3xJtXQVKQ2G2W9v1w55HY=",
+      "url": "scss\/bootstrap\/forms\/_form-check.scss"
+    },
+    {
+      "hash": "sha256-TLaXvSCqWBeDuzNA3mDMV1bWZzA2G32rHE3XCvbzSJs=",
+      "url": "scss\/bootstrap\/forms\/_form-control.scss"
+    },
+    {
+      "hash": "sha256-MONdWgq\/5PhOjE8\/4poWI8QvSyJaDNSvEWtQdIipSLU=",
+      "url": "scss\/bootstrap\/forms\/_form-range.scss"
+    },
+    {
+      "hash": "sha256-l+IbvoczHoAjn\/UuGewtv579tN3WH1I1axVckZ1qmzk=",
+      "url": "scss\/bootstrap\/forms\/_form-select.scss"
+    },
+    {
+      "hash": "sha256-grSlvamURdoncKgbvVOCeI+27my4sLfej3sTVe\/wLUs=",
+      "url": "scss\/bootstrap\/forms\/_form-text.scss"
+    },
+    {
+      "hash": "sha256-E3J9UOP4CxihCpa9LmgwP1\/sM7lBFHOYl5W31u5\/IEE=",
+      "url": "scss\/bootstrap\/forms\/_input-group.scss"
+    },
+    {
+      "hash": "sha256-gkwf1yD1SHOY\/gerBRhhPw5HyJdNoyD5wNhmx\/KEBlU=",
+      "url": "scss\/bootstrap\/forms\/_labels.scss"
+    },
+    {
+      "hash": "sha256-VhAdCAL4nORgaJoeKDuAczcRXMClilvsDOuMBj0XoGI=",
+      "url": "scss\/bootstrap\/forms\/_validation.scss"
+    },
+    {
+      "hash": "sha256-f9rnpdiJnEdEGfcsb4RS\/uSQ2AlTZ4t7NK240OTnkKk=",
+      "url": "scss\/bootstrap\/helpers\/_clearfix.scss"
+    },
+    {
+      "hash": "sha256-9ov\/Dqx5rqEnySBzBjulSRtTMYVHBsFo6ZbkJJrESTk=",
+      "url": "scss\/bootstrap\/helpers\/_colored-links.scss"
+    },
+    {
+      "hash": "sha256-\/2LIyQSZTkr5EwwdPRCD1+vvS\/xVrokpFRHZMYabqPk=",
+      "url": "scss\/bootstrap\/helpers\/_position.scss"
+    },
+    {
+      "hash": "sha256-Q2eZlvRzMTdB5XCSvTQaqYW0e9jyAtWidBemdj4l6jE=",
+      "url": "scss\/bootstrap\/helpers\/_ratio.scss"
+    },
+    {
+      "hash": "sha256-vjSz6SCVaLcbC4MEYZnvO1WoEnfDX5k1Uq0jwGG2zyI=",
+      "url": "scss\/bootstrap\/helpers\/_stretched-link.scss"
+    },
+    {
+      "hash": "sha256-RskEeZ2bOGH7q42kJ5\/5chXn1tVIBymwqTw23Q47Vzg=",
+      "url": "scss\/bootstrap\/helpers\/_text-truncation.scss"
+    },
+    {
+      "hash": "sha256-sib1VerR40KbmgTXBBZeIN3R8sg8DJWN4DaHZOZ\/2Pg=",
+      "url": "scss\/bootstrap\/helpers\/_visually-hidden.scss"
+    },
+    {
+      "hash": "sha256-xU+p2iuZk4UcLBn50efYZYZ2f+yMqbH8K\/PkMzbNNRM=",
+      "url": "scss\/bootstrap\/mixins\/_alert.scss"
+    },
+    {
+      "hash": "sha256-XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=",
+      "url": "scss\/bootstrap\/mixins\/_border-radius.scss"
+    },
+    {
+      "hash": "sha256-lvaPre4KsM3hpZrviVsL+4y31sIPXwKM+fJzo9gpNyY=",
+      "url": "scss\/bootstrap\/mixins\/_box-shadow.scss"
+    },
+    {
+      "hash": "sha256-w3+r8KnSAvlobVY43TDRo\/BcgLWoxcnK33K1yFGHwZs=",
+      "url": "scss\/bootstrap\/mixins\/_breakpoints.scss"
+    },
+    {
+      "hash": "sha256-\/+ER+ee5Jwy576h\/mj5Ujpl3YQ7k2FELKwXrKmAYUCk=",
+      "url": "scss\/bootstrap\/mixins\/_buttons.scss"
+    },
+    {
+      "hash": "sha256-wdog4ZwZKOimaanlZNIAwV5hsqk3WbxG6GhMN947fgQ=",
+      "url": "scss\/bootstrap\/mixins\/_caret.scss"
+    },
+    {
+      "hash": "sha256-G8IJ6Hf6AjicAyIXhNvJI7f4RHRDw4ao88I1w31NPtw=",
+      "url": "scss\/bootstrap\/mixins\/_clearfix.scss"
+    },
+    {
+      "hash": "sha256-21h6PXawdAJ6CMJ9+WOFT0kR7wZUBGVbXXXcWgPFpR4=",
+      "url": "scss\/bootstrap\/mixins\/_container.scss"
+    },
+    {
+      "hash": "sha256-aQeApfVoImu3VfXmAa3RIK9lR0yPLgd2TW8QvbWG6xE=",
+      "url": "scss\/bootstrap\/mixins\/_deprecate.scss"
+    },
+    {
+      "hash": "sha256-gAKSWXhNln\/RLW24H7t7gjBXxTozRmdq2KtWfqwGFl0=",
+      "url": "scss\/bootstrap\/mixins\/_forms.scss"
+    },
+    {
+      "hash": "sha256-B+3XaF1kjw4fLFMD0lYDta+DlH+AiNgrC1sJ5OX360s=",
+      "url": "scss\/bootstrap\/mixins\/_gradients.scss"
+    },
+    {
+      "hash": "sha256-iISUzy\/OcGXfjmNWVixE+zBNjdZFWetwYgylm8EvlVk=",
+      "url": "scss\/bootstrap\/mixins\/_grid.scss"
+    },
+    {
+      "hash": "sha256-khNvFnacIswOP5nSbayUEDUkCaMdTkonQGKiV0UoDkk=",
+      "url": "scss\/bootstrap\/mixins\/_image.scss"
+    },
+    {
+      "hash": "sha256-0j2Qg\/9hyaTQhchFsCpOR8Yls0nc83XLzVecipunve4=",
+      "url": "scss\/bootstrap\/mixins\/_list-group.scss"
+    },
+    {
+      "hash": "sha256-hHF\/vH\/EHOK6Bst1Qu+\/XOymICLzLN1Izqg5wVjjFiQ=",
+      "url": "scss\/bootstrap\/mixins\/_lists.scss"
+    },
+    {
+      "hash": "sha256-y66cIIqLygberGm7Xim5bfD9ZBemuioqOZq0knqJ4og=",
+      "url": "scss\/bootstrap\/mixins\/_pagination.scss"
+    },
+    {
+      "hash": "sha256-dM+tPrWqpwGohjqRW+jKYghY\/2W7zUKDLoRaFnQfJFM=",
+      "url": "scss\/bootstrap\/mixins\/_reset-text.scss"
+    },
+    {
+      "hash": "sha256-p\/Cn0vmQTkm3CWm2LYIAdC+FQlKZ77NOLnUdNaQTKs4=",
+      "url": "scss\/bootstrap\/mixins\/_resize.scss"
+    },
+    {
+      "hash": "sha256-YWllqr5SQQULd7KAleoT3PiQ3gFoZ7fMdqcvuAA\/dH4=",
+      "url": "scss\/bootstrap\/mixins\/_table-variants.scss"
+    },
+    {
+      "hash": "sha256-6F6n5gJaigYf5lsncGvhsf12\/DFkxMkdZyf5GgBVrhw=",
+      "url": "scss\/bootstrap\/mixins\/_text-truncate.scss"
+    },
+    {
+      "hash": "sha256-jUUxBldKvwI0TPCdrBzA8QIsfafCZ9Q+Sh2o19sYqkQ=",
+      "url": "scss\/bootstrap\/mixins\/_transition.scss"
+    },
+    {
+      "hash": "sha256-PnpJyvC02Tq06sBWCYzV8VIPO9MXD86Qq8s40qYjTYc=",
+      "url": "scss\/bootstrap\/mixins\/_utilities.scss"
+    },
+    {
+      "hash": "sha256-QCVj0270KGyuY5SK8jFebD7XLzIRQkdZoLnLlrosM\/s=",
+      "url": "scss\/bootstrap\/mixins\/_visually-hidden.scss"
+    },
+    {
+      "hash": "sha256-J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw=",
+      "url": "scss\/bootstrap\/utilities\/_api.scss"
+    },
+    {
+      "hash": "sha256-ltkCWM11ZskiET9YcId8GCz\/tmK3wymn8Dnyr++k\/T8=",
+      "url": "scss\/bootstrap\/vendor\/_rfs.scss"
+    },
+    {
+      "hash": "sha256-MbeakUTx53dNEx+TDzsgUahIlW+WJz+qxvqSXqDeerg=",
+      "url": "scss\/bootstrap\/_accordion.scss"
+    },
+    {
+      "hash": "sha256-aluLHtF6RezWlaIiUnpaTBa0+go338jY2+XOOg6AOqA=",
+      "url": "scss\/bootstrap\/_alert.scss"
+    },
+    {
+      "hash": "sha256-JHT54tonH8PWXpXe\/ZZikkWzJQfcdD3fERU6cmBp2cU=",
+      "url": "scss\/bootstrap\/_badge.scss"
+    },
+    {
+      "hash": "sha256-EAUYOgAB7ZQU6FipygJLfrk5cEQJ8gwIsNphAbxC5zI=",
+      "url": "scss\/bootstrap\/_breadcrumb.scss"
+    },
+    {
+      "hash": "sha256-tpWKK4CLhj+w2X1jWgkEq9u\/SEM2QreBZuth\/PbRK\/g=",
+      "url": "scss\/bootstrap\/_button-group.scss"
+    },
+    {
+      "hash": "sha256-1t+i4G3oh+zpu+ng\/ERdwcMEDinlwvm2s7+Di5GmbYo=",
+      "url": "scss\/bootstrap\/_buttons.scss"
+    },
+    {
+      "hash": "sha256-VHRw177n8MjIzOU\/0HAf20Pk7TfE3QXmGJeiXUBwvbc=",
+      "url": "scss\/bootstrap\/_card.scss"
+    },
+    {
+      "hash": "sha256-GZu9JM3zI3TTTrA9yUswpcoVVBuWkd34HQpP00qWBi4=",
+      "url": "scss\/bootstrap\/_carousel.scss"
+    },
+    {
+      "hash": "sha256-0BQXJgPmSzJ\/LRvNWl9cgpRzcEgB628fcaKcvt7zMoo=",
+      "url": "scss\/bootstrap\/_close.scss"
+    },
+    {
+      "hash": "sha256-\/XD6ZQtzaxCnT1Wq3Vgj5EdeP79X7uvVbeb5KzBz2ns=",
+      "url": "scss\/bootstrap\/_containers.scss"
+    },
+    {
+      "hash": "sha256-+Lsa5Ix99\/LO2u5XysZA5Y5U6CkCoQUZNDyUYFGMwKc=",
+      "url": "scss\/bootstrap\/_dropdown.scss"
+    },
+    {
+      "hash": "sha256-JRuJTT5voTi7uiha0l+fhV61TQBsUEPO5HYx+l18zKY=",
+      "url": "scss\/bootstrap\/_forms.scss"
+    },
+    {
+      "hash": "sha256-+YhsVKp1Jm\/KtO2IcARBcCEJt28znRSXjNITW6F9TsY=",
+      "url": "scss\/bootstrap\/_functions.scss"
+    },
+    {
+      "hash": "sha256-A1IPiTZ2v9tpXpqixpu1TpQx\/f36xchjZMlTZSVozk8=",
+      "url": "scss\/bootstrap\/_grid.scss"
+    },
+    {
+      "hash": "sha256-gRITciNmMJyC\/IMELYkklRg2wF80\/J9G\/B5GRC6xA2w=",
+      "url": "scss\/bootstrap\/_helpers.scss"
+    },
+    {
+      "hash": "sha256-mc002Iz8z1x7ztPx47610hoRscAVEBgtoCEI9BYVV5w=",
+      "url": "scss\/bootstrap\/_images.scss"
+    },
+    {
+      "hash": "sha256-f2cd4Jd5CXbpi+pe2T+QoITv\/4VAJxTyHLHVC1Z75t0=",
+      "url": "scss\/bootstrap\/_list-group.scss"
+    },
+    {
+      "hash": "sha256-4ioihrrPGMES\/zMUD7+975uiOmcHGzKIQU1BiVweBTc=",
+      "url": "scss\/bootstrap\/_mixins.scss"
+    },
+    {
+      "hash": "sha256-G7yAtfh1TO8fPycwxaRlyt6ZONdBQ4JWmZFsuFMItc0=",
+      "url": "scss\/bootstrap\/_modal.scss"
+    },
+    {
+      "hash": "sha256-OTUpI2xT\/PcggojZDgjWmejfM94391Uu5LRy0dKowR8=",
+      "url": "scss\/bootstrap\/_nav.scss"
+    },
+    {
+      "hash": "sha256-S5ZdzQSZGSyVDMMUgyzgORcpWnuPcLA3yXMJmqUNS+A=",
+      "url": "scss\/bootstrap\/_navbar.scss"
+    },
+    {
+      "hash": "sha256-Y7gNSNmMAOtYQPAQmaT4iCrU2v0qt5qAJrnX1MbbFM8=",
+      "url": "scss\/bootstrap\/_pagination.scss"
+    },
+    {
+      "hash": "sha256-EGsCUOjkveTY3pu8tK2uqlCBvk8PY6Copsc9Kv+iATY=",
+      "url": "scss\/bootstrap\/_popover.scss"
+    },
+    {
+      "hash": "sha256-68g+breOpkG2iNvI6cNClfLy1GpD\/9ko4HYbRl1S3Ts=",
+      "url": "scss\/bootstrap\/_progress.scss"
+    },
+    {
+      "hash": "sha256-G9UV12JcbHEB+KdCzqZcv\/SoNDR4GcoZvVaH5rHnv9w=",
+      "url": "scss\/bootstrap\/_reboot.scss"
+    },
+    {
+      "hash": "sha256-inKw8MvxuWpjCLJe611bkZmnzLCortyx4Xleim5pfMw=",
+      "url": "scss\/bootstrap\/_root.scss"
+    },
+    {
+      "hash": "sha256-HzO1rRRGA6urCb7bE18W5d3YvAE16VKcKhLoY96XSHg=",
+      "url": "scss\/bootstrap\/_spinners.scss"
+    },
+    {
+      "hash": "sha256-ok7DmwG+YYBVNLusphVXxpyDcwcdH22uPJveI3LNhZM=",
+      "url": "scss\/bootstrap\/_tables.scss"
+    },
+    {
+      "hash": "sha256-HkMpN1jgzO1Lh2kqDIvTmbJv9WTKgzOQtVJ0NYKx5LE=",
+      "url": "scss\/bootstrap\/_toasts.scss"
+    },
+    {
+      "hash": "sha256-AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY=",
+      "url": "scss\/bootstrap\/_tooltip.scss"
+    },
+    {
+      "hash": "sha256-42jPktcNQepYjraxsteI9b\/QYZodM1eGQHE6wRSzUYY=",
+      "url": "scss\/bootstrap\/_transitions.scss"
+    },
+    {
+      "hash": "sha256-l4tgKhsywmCQ9JV67pjPVryG+GJxxJ3zZ4wxW4ry97U=",
+      "url": "scss\/bootstrap\/_type.scss"
+    },
+    {
+      "hash": "sha256-eY+a5UbTgk\/WisOlIBhyAupTZQkRZHhSChn5gN2RYeE=",
+      "url": "scss\/bootstrap\/_utilities.scss"
+    },
+    {
+      "hash": "sha256-VHB2wcvWcBTrOWbNFXMlCrx+qYXdhS2DWYVfXbAHShE=",
+      "url": "scss\/bootstrap\/_variables.scss"
+    },
+    {
+      "hash": "sha256-phCH0yWUYuX\/qJlPU3Ld1JTQGiAOaVnKpoD1J9DJ6ik=",
+      "url": "scss\/brandflex.scss"
+    },
+    {
+      "hash": "sha256-DkooEnGDrSfx1TxQaPfjJZpxjb8uYi4siRdGELuITBM=",
+      "url": "scss\/config.codekit3"
+    },
+    {
+      "hash": "sha256-ycQxb7iJQBqp87Ft66KEGqFEYAW\/MTJaf+PiLeqypgM=",
+      "url": "scss\/fonts.scss"
+    },
+    {
+      "hash": "sha256-9b1vSyYGww9gmJ\/ppFpXpxwPCtxol4omiIpQDWyvwqw=",
+      "url": "scss\/skin.scss"
     }
   ],
-  "version": "q9GxpMtt"
+  "version": "otSBroC4"
 };

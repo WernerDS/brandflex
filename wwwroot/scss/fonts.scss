@@ -1,0 +1,29 @@
+/* MerchantLedgerRegular */
+@font-face {
+    font-family: 'MerchantLedger';
+    src: url('../fonts/MerchantLedger/MerchantLedgerRegular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/MerchantLedger/MerchantLedgerRegular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/MerchantLedger/MerchantLedgerRegular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/MerchantLedger/MerchantLedgerRegular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/MerchantLedger/MerchantLedgerRegular.svg#MerchantLedgerRegular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+    font-display: swap;
+}
+
+/* MerchantLedgerThin */
+@font-face {
+    font-family: 'MerchantLedger';
+    src: url('../fonts/MerchantLedgerThin/MerchantLedgerThin.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/MerchantLedgerThin/MerchantLedgerThin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/MerchantLedgerThin/MerchantLedgerThin.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/MerchantLedgerThin/MerchantLedgerThin.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/MerchantLedgerThin/MerchantLedgerThin.svg#MerchantLedgerThin') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+    font-display: swap;
+}
+
+

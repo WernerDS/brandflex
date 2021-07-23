@@ -1,0 +1,28 @@
+/*!
+ * Bootstrap v5.0.0-beta2 (https://getbootstrap.com/)
+ * Copyright 2011-2021 The Bootstrap Authors
+ * Copyright 2011-2021 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+ 
+// Font Smoothing 
+html, html a, body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility !important;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004); 
+    outline: none;
+}
+
+// Fonts
+@import "fonts";
+
+// Bootstrap
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/utilities";
+@import "bootstrap/bootstrap";
+
+// Skin
+@import "skin";

@@ -89,21 +89,6 @@ using brandflex.Shared;
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 28 "/Users/wernergriesel/Dotslash/brandflex/Shared/NavMenu.razor"
-       
-    private bool collapseNavMenu = true;
-
-    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
-
-    private void ToggleNavMenu()
-    {
-        collapseNavMenu = !collapseNavMenu;
-    }
-
-#line default
-#line hidden
-#nullable disable
     }
 }
 #pragma warning restore 1591

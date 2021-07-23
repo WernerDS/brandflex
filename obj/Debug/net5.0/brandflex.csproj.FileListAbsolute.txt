@@ -406,8 +406,6 @@
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/brandflex.MvcApplicationPartsAssemblyInfo.cache
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/brandflex.RazorComponent.input.cache
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
-/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
-/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
@@ -419,8 +417,6 @@
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/brandflex.TagHelpers.output.cache
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/brandflex.RazorCoreGenerate.cache
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/App.razor.g.cs
-/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
-/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
@@ -623,10 +619,7 @@
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/build-gz/pUnI+yLg.gz
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/staticwebassets/brandflex.StaticWebAssets.Manifest.cache
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/staticwebassets/brandflex.StaticWebAssets.xml
-/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
-/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/scopedcss/bundle/brandflex.styles.css
-/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/scopedcss/projectbundle/brandflex.bundle.scp.css
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/brandflex.RazorTargetAssemblyInfo.cache
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/brandflex.csproj.CopyComplete
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/brandflex.dll
@@ -634,3 +627,13 @@
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/brandflex.pdb
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/serviceworkers/wwwroot/service-worker.js
 /Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/service-worker-assets.js
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/Shared/Footer.razor.g.cs
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/Shared/Footer.razor.g.cs
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/Pages/Storyteller.razor.g.cs
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/Pages/Storyteller.razor.g.cs
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/Pages/Branding.razor.g.cs
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/Pages/Uxcareer.razor.g.cs
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/Pages/Branding.razor.g.cs
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/Pages/Uxcareer.razor.g.cs
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/RazorDeclaration/Shared/Cta.razor.g.cs
+/Users/wernergriesel/Dotslash/brandflex/obj/Debug/net5.0/Razor/Shared/Cta.razor.g.cs
